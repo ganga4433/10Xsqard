@@ -1,0 +1,44 @@
+User : Rquser
+Password : rq@1234%
+=======================================
+
+VPN user name : ashok
+VPN Password : @shokS@987&*
+=======================================
+Email ID : AshokS@workflowmgt.com
+Password : @shokS@987&*
+
+Email Access link : https://10.10.21.129:8443
+
+
+Jump remote server : 10.10.21.159
+New VM 10.10.21.127
+User name : ashok@corp.local
+Password : @shokS@987&*
+
+======================================================
+
+https://myhealthyzone.fitnessgram.net/
+user name : AshokS@workflowmgt.com
+Password : Fitness1
+9LR0
+
+======================================================
+VPN: 199.19.77.226:4433
+
+=====================================================
+SVN repository URL
+https://10.10.21.93/10xSquared
+
+zoho
+
+fglevel3@10xsquared.com
+password:
+
+
+Zoom meeting
+user name: ashoks
+Password : Ddivya@888
+
+
+chethana@corp.local
